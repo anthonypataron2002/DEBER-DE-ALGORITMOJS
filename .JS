@@ -1,9 +1,5 @@
 // Clase de los ejercicios sin ciclo
 
-
-
-
-
 class SinCiclo{
     // ejercicio 1, Suma de 2 numeros
     Suma(){
